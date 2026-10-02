@@ -181,9 +181,9 @@ The `/search` endpoint combines **BM25 sparse retrieval** and **dense semantic r
   ]
 }
 
+```
 ![Hybrid Search](screenshots/search.png)
 
-```
 
 
 
