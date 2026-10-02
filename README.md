@@ -185,16 +185,7 @@ The `/search` endpoint combines **BM25 sparse retrieval** and **dense semantic r
 
 ```
 
-📸 **Screenshots**
 
-Add screenshots of the three API tests above to show the actual Swagger responses:
-
-* Normal Extraction
-* Suspicious Input Rejection
-* Hybrid Search
-
-
----
 
 ## 📂 Project Structure
 
